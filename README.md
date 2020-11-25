@@ -19,6 +19,9 @@ OpenCV_contrib
 
 Math
 
+Download yolov3.weights for COCO dataset from this link and add it to the yolov3 directory
+https://pjreddie.com/darknet/yolo/
+
 
  
  
