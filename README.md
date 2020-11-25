@@ -10,12 +10,16 @@ Social Distancing Detector using yolov3 convolutional neural network
 # Requirements
 
 Numpy
+
 Time
+
 OpenCV
+
 OpenCV_contrib
+
 Math
-Download yolov3.weights for COCO dataset from this link and add it to the yolov3 directory,
- https://pjreddie.com/darknet/yolo/
+
+
  
  
 # Steps to run the code:
