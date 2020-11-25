@@ -36,3 +36,8 @@ social_distancing_config.py: A Python file holding a number of constants in one 
 detection.py: YOLO object detection with OpenCV involves more lines of code that some easier models. 
 I’ve decided to put the object detection logic in a function in this file for convenience. 
 Doing so frees up our driver script’s frame processing loop from becoming especially cluttered.
+
+## Results
+![test1](https://user-images.githubusercontent.com/42108866/100218770-2ed1a800-2f3b-11eb-90ec-f3b161e001b3.jpg)
+![output1](https://user-images.githubusercontent.com/42108866/100218800-3729e300-2f3b-11eb-9e5c-1bd23013cf44.jpg)
+
